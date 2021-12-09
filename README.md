@@ -16,3 +16,7 @@ and, if desirable, the PWM-audio interface can be disabled by commenting out lik
 #dtparam=audio=on
 
 After reboot, the i2s-interface should be visible when typing "aplay -l" or "aplay -L".
+
+--
+
+Good link: https://www.raspberrypi.com/documentation/computers/configuration.html#device-trees-overlays-and-parameters
